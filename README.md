@@ -1,2 +1,3 @@
 # Fortgeschrittene-Algorithmen-und-Programmierung
-Übungen zur Fortgeschrittenen Programmierung
+
+5 Übungen zur Fortgeschrittenen Programmierung, sowie eine Projektarbeit.
